@@ -4,6 +4,7 @@ Build a web application implementing the Employee Onboarding business process, u
 
 
 Programming Languages -> C# JavaScript
-| Frameworks -> .NET Core, Vue JS, and MSSQL
+
+Frameworks -> .NET Core, Vue JS, and MSSQL
 
 
